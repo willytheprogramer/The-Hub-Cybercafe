@@ -1,0 +1,159 @@
+body{
+  margin: 0;
+  background-color: silver;
+}
+
+.hubTitle{
+  background-color: red;
+}
+.hubLogo{
+  height: 200px;
+  width: 200px;
+  position: relative;
+  left: 25px;
+  top: 15px;
+}
+.theHub{
+  font-size: 4.7em;
+  color: white;
+  position: relative;
+  left: 30px;
+  bottom: 70px;
+}
+.CyberCafe{
+  font-size: 7.8em;
+  color: white;
+  position: relative;
+  left: 30px;
+  bottom: 55px;
+}
+.ECITIZEN{
+  height: 50px;
+  width: 100px;
+  position: relative;
+  left: 8px;
+  top: -200PX;
+}
+.AGPO{
+  height: 50px;
+  width: 100px;
+  position: relative;
+  left: 8px;
+  top: -200PX;
+}
+.KRA{
+  height: 50px;
+  width: 100px;
+  position: relative;
+  left: 8px;
+  top: -200PX;
+}
+.NCA{
+  height: 50px;
+  width: 100px;
+  position: relative;
+  left: 8px;
+  top: -200PX;
+}
+.NTSA{
+  height: 50px;
+  width: 100px;
+  position: relative;
+  left: 8px;
+  top: -200PX;
+}
+.TIMS{
+  height: 50px;
+  width: 100px;
+  position: relative;
+  left: 8px;
+  top: -200PX;
+}
+.KUCCPS{
+  height: 50px;
+  width: 100px;
+  position: relative;
+  left: 8px;
+  top: -200PX;
+}
+.HELB{
+  height: 50px;
+  width: 100px;
+  position: relative;
+  left: 8px;
+  top: -200PX;
+}
+.TSC{
+  height: 50px;
+  width: 100px;
+  position: relative;
+  left: 8px;
+  top: -200PX;
+}
+.GHRIS{
+  height: 50px;
+  width: 100px;
+  position: relative;
+  left: 8px;
+  top: -200PX;
+}
+.NSSF{
+  height: 50px;
+  width: 100px;
+  position: relative;
+  left: 8px;
+  top: -200PX;
+}
+.NHIF{
+  height: 50px;
+  width: 100px;
+  position: relative;
+  left: 8px;
+  top: -200PX;
+}
+.MOVIES{
+  height: 50px;
+  width: 100px;
+  position: relative;
+  left: 8px;
+  top: -200PX;
+}
+.LIPANAMPESA{
+  height: 40px;
+  width: 250px;
+  position: relative;
+  left: 20px;
+}
+.PHOTOCOPY{
+  font-size: 50px;
+  color: black;
+  position: relative;
+  left: 70px;
+}
+.PRINTING{
+  font-size: 50px;
+  color: black;
+  position: relative;
+  left: 130px;
+}
+.SCANNING{
+  font-size: 50px;
+  color: black;
+  position: relative;
+  left: 220px;
+}
+.OURSERVICES{
+  font-size: 100px;
+  color: red;
+  position: relative;
+  left: 280px;
+  top: -100PX;
+}
+.SERVICELISTS{
+
+  font-size: 20px;
+  color: black;
+  position: relative;
+  left: 8px;
+  top: -200PX;
+}
